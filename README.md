@@ -3,7 +3,7 @@
 ## I'm a Information Systems Engineering student!!
 - 🧑‍🎓 I’m studyng Systems Engineering at UTN and English at Instituto de lengua inglesa
 - 🌱 I’m currently learning everything 🤣
-- 🔭 I’m interested in ___full stack develop__
+- 🔭 I’m interested in __Full Stack Develop__
 - 💬 Ask me about anything, I am happy to help;
 
 ### Connect with me:
