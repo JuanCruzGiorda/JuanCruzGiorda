@@ -4,7 +4,7 @@
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 - 🧑‍🎓 I’m studyng Systems Engineering and English 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything 
 - 🔭 I’m interested in __Full Stack Develop__
 - 💬 Ask me about anything, I am happy to help;
 
